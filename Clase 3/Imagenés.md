@@ -105,3 +105,6 @@ Para traer una imagen desde otro repositorio
 ```linux=
 docker pull  "usuario"/"nombre del repo"
 ```
+
+Link de la imagén subida en clase:
+https://hub.docker.com/repository/docker/camilo2412/fedesoft-web
